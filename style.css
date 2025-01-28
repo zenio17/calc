@@ -1,0 +1,26 @@
+.btn-plus {
+    background-color: #28a745; /* Зелёный */
+    color: white;
+  }
+  
+  .btn-minus {
+    background-color: #dc3545; /* Красный */
+    color: white;
+  }
+  
+  .btn-multiply {
+    background-color: #ffc107; /* Жёлтый */
+    color: black;
+  }
+  
+  .btn-divide {
+    background-color: #007bff; /* Синий */
+    color: white;
+  }
+  
+  h1 {
+    text-align: center; /* Выравнивание текста по центру */
+    margin-top: 20%; /* Отступ сверху, чтобы заголовок был ближе к центру страницы */
+    font-family: Arial, sans-serif; /* Установка шрифта (по желанию) */
+  }
+  
